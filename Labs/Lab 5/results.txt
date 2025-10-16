@@ -1,0 +1,3 @@
+Highest Score: 9.5 (by frank)
+Lowest Score: 7.8 (by david)
+Average Score: 8.9

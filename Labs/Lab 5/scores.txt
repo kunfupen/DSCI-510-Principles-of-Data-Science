@@ -1,0 +1,6 @@
+Alice,8.5
+Bob,9.0
+Carol,9.3
+David,7.8
+Emma,8.9
+Frank,9.5
