@@ -1,0 +1,50 @@
+Country: Aruba, Capital: Oranjestad
+Country: Africa Eastern and Southern, Capital: N/A
+Country: Afghanistan, Capital: Kabul
+Country: Africa, Capital: N/A
+Country: Africa Western and Central, Capital: N/A
+Country: Angola, Capital: Luanda
+Country: Albania, Capital: Tirane
+Country: Andorra, Capital: Andorra la Vella
+Country: Arab World, Capital: N/A
+Country: United Arab Emirates, Capital: Abu Dhabi
+Country: Argentina, Capital: Buenos Aires
+Country: Armenia, Capital: Yerevan
+Country: American Samoa, Capital: Pago Pago
+Country: Antigua and Barbuda, Capital: Saint John's
+Country: Australia, Capital: Canberra
+Country: Austria, Capital: Vienna
+Country: Azerbaijan, Capital: Baku
+Country: Burundi, Capital: Bujumbura
+Country: East Asia & Pacific (IBRD-only countries), Capital: N/A
+Country: Europe & Central Asia (IBRD-only countries), Capital: N/A
+Country: Belgium, Capital: Brussels
+Country: Benin, Capital: Porto-Novo
+Country: Burkina Faso, Capital: Ouagadougou
+Country: Bangladesh, Capital: Dhaka
+Country: Bulgaria, Capital: Sofia
+Country: IBRD countries classified as high income, Capital: N/A
+Country: Bahrain, Capital: Manama
+Country: Bahamas, The, Capital: Nassau
+Country: Bosnia and Herzegovina, Capital: Sarajevo
+Country: Latin America & the Caribbean (IBRD-only countries), Capital: N/A
+Country: Belarus, Capital: Minsk
+Country: Belize, Capital: Belmopan
+Country: Middle East, North Africa, Afghanistan & Pakistan (IBRD only), Capital: N/A
+Country: Bermuda, Capital: Hamilton
+Country: Bolivia, Capital: La Paz
+Country: Brazil, Capital: Brasilia
+Country: Barbados, Capital: Bridgetown
+Country: Brunei Darussalam, Capital: Bandar Seri Begawan
+Country: Sub-Saharan Africa (IBRD-only countries), Capital: N/A
+Country: Bhutan, Capital: Thimphu
+Country: Botswana, Capital: Gaborone
+Country: Sub-Saharan Africa (IFC classification), Capital: N/A
+Country: Central African Republic, Capital: Bangui
+Country: Canada, Capital: Ottawa
+Country: East Asia and the Pacific (IFC classification), Capital: N/A
+Country: Central Europe and the Baltics, Capital: N/A
+Country: Europe and Central Asia (IFC classification), Capital: N/A
+Country: Switzerland, Capital: Bern
+Country: Channel Islands, Capital: N/A
+Country: Chile, Capital: Santiago
